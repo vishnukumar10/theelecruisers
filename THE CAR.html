@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+  <title>The Elecruisers | Car Specs</title>
+  <link rel="shortcut icon" href="Elecruisers logo.jpg" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
+
+
+
+
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+div.social {
+	text-align: right;
+	margin-right: 10px;
+}
+.fa {
+  padding: 10px;
+  font-size: 10px;
+  width: 30px;
+  text-align: right;
+  text-decoration: none;
+  margin-top: 20px;
+  margin-right: 5px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+html {
+width: auto;
+}
+img.team {
+	margin-top: -20px;
+	margin-bottom: 20px;
+}
+
+
+.item h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    font-weight: 400;
+    font-style: italic;
+    margin: 70px 0;
+}
+
+.item span {
+    font-style: normal;
+}
+
+.affix {
+      top: -2px;
+      width: 100%;
+      -webkit-transition: all 0.50s ease-in-out;
+      transition: all 0.50s ease-in-out;
+      background-color: #f3f3f3;
+      z-index: 99;
+  }
+
+  .icon-bar {
+      background-color: black;      
+  }
+
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+}
+h1 {
+	margin-top: 50px;
+	font-family: "Arial Black", Monaco, monospace;
+	text-weight: bold;
+	text-align: center;
+}
+
+h4 {
+	font-family: "Lucida Console", Monaco, monospace;
+	text-align: center;
+	margin-top: -30px;
+}
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+table {
+	font-family:arial,sans-serif;border-collapse:collapse;width:100%;
+	color: grey;
+}
+td,th{border:px solid #ddd;text-align:left;padding:8px}tr:nth-child(even){background-color:#ddd}
+#navigation{padding-top:5px;padding-left:5px;padding-right:0px}
+#img1{margin-left:0em}body{margin-right:0px}
+th {
+	text-align: left;
+}
+.navbrand {
+	position: fixed;
+}
+.jumbotron {
+    font-family: Montserrat, sans-serif;
+    background-color: black;
+    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
+    padding: auto;
+}
+
+.navbar {
+    font-family: Montserrat, sans-serif;
+    z-index: 99;
+}
+div.members {
+	text-align: center;
+	font-family: Montserrat, sans-serif;
+        z-index: 99;
+  .affix-top {
+      position: static;
+      top: -35px;
+      -webkit-transition: all 1.0s ease-in-out;
+      transition: all -0.65s ease-in-out;
+      width: 100%;
+      z-index: 99;
+  }
+  .affix + .container-fluid {
+      -webkit-transition: all 0.80s ease-in-out;
+      transition: all 0.80s ease-in-out;
+      padding-top: 30px;
+      width: 100%;
+      z-index: 99;
+  }
+}
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#myBtn:hover {
+  background-color: #4CAF50;
+}
+c:hover {
+	opacity: 0.5;
+}
+</style>
+</head>
+<body>
+
+
+<div class="upper-right clearfix hidden-xs">                        
+                        <div class="info-box btn-box">
+				<a href="index.html"><img src="Elecruisers logo.jpg" width="199" height="248" style="margin-left:75px;margin-top:15px;width:150px;height:150px"></a>
+                        </div>
+                    </div>
+<div class="upper-right clearfix hidden-xs">                        
+                        <div class="info-box btn-box">
+                                <a href="http://www.srmuniv.ac.in/" target="_blank">
+				<img src="SRM LOGO.jpg" style="margin-left:960px;margin-top:-150px;width:200px;height:160"></a>
+                        </div>
+                    </div>
+
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">UP!</button>
+
+
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+</script>
+
+
+
+
+
+</div>
+<nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="197">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar" style="background-color:grey"></span>
+        <span class="icon-bar" style="background-color:grey"></span>
+        <span class="icon-bar" style="background-color:grey"></span>                        
+      </button>
+      <a class="navbar-brand" href="index.html">The Elecruisers</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">HOME</a></li>
+        <li class="dropdown">
+        <li><a href="DOMAINS.html">DOMAINS</a></li>
+        <li><a href="PARTNERS.html">PARTNERS</a></li>
+        <li><a href="THE TEAM.html">THE TEAM</a></li>
+        <li class="active"><a href="THE CAR.html">THE CAR</a></li>
+        <li><a href="THE GALLERY.html">GALLERY</a></li>
+        <li><a href="CONTACT.html">CONTACT US</a></li>
+      </ul>
+     
+    </div>
+    
+  </div>
+</nav>
+<br/>
+<br/>
+
+<img src="IMG_THECAR.jpg" width="100%" height="auto">
+<br/>
+<br/>
+<br/>
+<div class="container">
+  <br>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+
+      <div class="item active">
+        <img src="CAR_IMG1.JPG" alt="Chania" width="460" height="345">
+      </div>
+
+      <div class="item">
+        <img src="ECR1.11.JPG" alt="Chania" width="460" height="345">
+      </div>
+    
+      <div class="item">
+        <img src="ECR1.14.JPG" alt="Flower" width="460" height="345">
+      </div>
+
+      <div class="item">
+        <img src="ECR1.3.JPG" alt="Flower" width="460" height="345">
+      </div>
+  
+    </div>
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+<h1>ECR 1.0</h1><br/>
+<h4><b>VEHICLE SPECS</b></h4><br/>
+
+<table style="color:black;">
+<tr>
+<th style="margin-left:10px">DRIVER CONFIGURATION:</th>
+<td style="color:grey">ELECTRIC OFF-ROAD</td>
+</tr>
+<tr>
+<th style="color:black;margin-left:10px">ENGINE :</th>
+<td style="color:grey">KIRLOSKAR MOTOR</td>
+</tr><tr><th></th><td style="color:grey">THREE PHASE SQUIRREL CAGE INDUCTION MOTOR</td><tr><th></th><td style="color:grey">SUPPLY-25 VOLT AC RMS 48 VOLT DC</td></tr><tr><th></th><td style="color:grey">RPM 6000</td></tr><tr><th></th><td style="color:grey">POWER 6kW</td></tr><tr><th></th> <td style="color:grey">TORQUE 35Nm</td>
+<tr>
+<th style="color:black;padding-left:10px">FUEL TYPE :</th>
+<td style="color:grey">ELECTRIC</td>
+</tr>
+<tr>
+<th style="color:black;padding-left:10px">BATTERY SPECS :</th>
+<td style="color:grey">ONE Li-ION BATTERY</tr><tr><th></th><td style="color:grey"> 60 VOLT DC 150 Ah</td>
+</tr>
+<tr>
+<th>MOTOR CONTROLLER :</th>
+<td style="color:grey">CURTIS </tr><tr><th></th><td style="color:grey"> RANGE(36 - 48 VOLTS) CURRENT 350A </td>
+</tr>
+<tr>
+<th>UNIQUE FEATURES :</th>
+<td style="color:grey">VEHICLE CONTROL LANGUAGE(VCL) </tr><tr><th></th><td style="color:grey"> ONE WAY TELEMETRY</td>
+</tr>
+</table>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
+<div class="jumbotron" style="background-color:lightgrey">  
+
+  <!-- Wrapper for slides -->
+<div class="carousel-inner" role="listbox">
+    <div class="item active">
+    <div class="col-sm-12">
+    <a href="https://in.mathworks.com/" target="_blank"><c><img src="SPONSOR-MATLAB.jpg" height="45"></c></a>
+    </div>
+    </div>
+    <div class="item">
+    <div class="col-sm-12">
+    <a href="http://www.altairhyperworks.in/" target="_blank"><c><img src="SPONSOR-ALTAIRHYPERLINK.jpg" height="45"></c></a>
+    </div>
+    </div>
+    <div class="item">
+    <div class="col-sm-12">
+    <a href="http://www.lincolnelectric.in/" target="_blank"><c><img src="SPONSOR-LINCOLN ELECTRICAL.jpg" width="110" height="45"></c></a>
+    </div>
+    </div>
+    <div class="item">
+    <div class="col-sm-12">
+    <a href="http://thefusionera.com/" target="_blank"><c><img src="fusion era.jpg" height="45"><c/></a>
+    </div>
+    </div>
+    <div class="item">
+    <div class="col-sm-12">
+    <a href="http://www.solidworks.in/" target="_blank"><c><img src="SPONSOR-SOLIDWORKS.jpg" height="45"></c></a>
+    </div>
+    </div>
+  </div>
+
+
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+	
+
+
+<div class="maybe">
+<div class="jumbotron">
+<div class="container-fluid bg-grey">
+  <h2 class="text-center">CONTACT</h2>
+  
+  <div class="row" style="text-align:left">
+    <div class="col-sm-5">
+      <p>Contact us and we'll get back to you within 24 hours.</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span>  SRM UNIVERSITY, CHENNAI</p>
+      <p><span class="glyphicon glyphicon-phone"></span>  +91 9959695091 </p>
+      <p><span class="glyphicon glyphicon-phone"></span>+91 9962799180 </p>
+      <p><span class="glyphicon glyphicon-envelope"></span>  theelecruisers@gmail.com</p> 
+    </div>
+    <div class="col-sm-7">
+      <div class="row">
+        <div class="col-sm-6 form-group">
+          <form action="mailto:theelecruisers@gmail.com" method="post" enctype="text/plain">
+          <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+        </div>
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+        </div>
+      </div>
+      <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea><br>
+      <div class="row">
+        <div class="col-sm-12 form-group">
+          <button class="btn btn-default pull-right" type="submit">Send</button>
+        </div>
+	</form>
+      </div> 
+    </div>
+</div>
+</div>  
+<br/>
+<br/>
+<br/>
+<hr>
+<div>&copy The Elecruisers 2017. All rights reserved.</div>
+<div class="social">
+<a href="https://www.facebook.com/TheElecruisers/" class="fa fa-facebook" target="_blank"></a>
+<a href="https://www.instagram.com/theelecruisers/?hl=en" class="fa fa-instagram" target="_blank" style="text-align:right;margin-right:100px"></a>
+</div> 
+</div>
+<nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="197">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar" style="background-color:grey"></span>
+        <span class="icon-bar" style="background-color:grey"></span>
+        <span class="icon-bar" style="background-color:grey"></span>                        
+      </button>
+      <a href="index.html"><img src="Elecruisers logo.jpg" width="50" height="50" style="text-align:left"></a>
+      <b href="index.html" style="color:black;    font-family: Montserrat, sans-serif;">The Elecruisers</b>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html" style="color:black">HOME</a></li>
+        <li class="dropdown">
+        <li><a href="DOMAINS.html" style="color:black">DOMAINS</a></li>
+        <li><a href="PARTNERS.html" style="color:black">PARTNERS</a></li>
+        <li><a href="THE TEAM.html" style="color:black">THE TEAM</a></li>
+        <li class="active"><a href="THE CAR.html">THE CAR</a></li>
+        <li><a href="THE GALLERY.html" style="color:black">GALLERY</a></li>
+        <li><a href="CONTACT.html" style="color:black">CONTACT US</a></li>
+      </ul>
+     
+    </div>
+  </div>
+</nav>
+</body>
+</html>

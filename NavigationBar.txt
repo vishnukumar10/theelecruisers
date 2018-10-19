@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+a:link, a:visited {
+	display: block;
+	width: 120px;
+	background-color: yellowgreen;
+	color: white;
+	text-decoration: none;
+	text-allign: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 5px;
+}
+a:hover, a:active {
+	background-color: green;
+}
+</style>
+</head>
+<body>
+
+<u1>
+	<li><href="#home">HOME</a></li>
+	<li><href="#aboutus">ABOUT US</a></li>
+	<li><href="#domains">DOMAINS</a></li>
+	<li><href="#partners">PARTNERS</a></li>
+	<li><href="#theteam">THE TEAM</a><li>
+	<li><href="#whyus">WHY US?</a></li>
+	<li><href="#reachus">REACH US</a></li>
+</u1>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.img {
+}
+div.img img {
+}
+div.img a:hover img {
+ 
+}
+
+</style>
+</head>
+<body>
+
+<div class="img">
+	<a target="_blank" href="https://www.google.com">
+	<img src="IMG_4258.jpg" width="110" height="90"></a>
+</div>

@@ -1,0 +1,434 @@
+<section id="about">
+
+      <div class="row section-head">
+
+         <div class="col one-fourth">
+            <h2>Achievements</h2>
+            <p class="desc">Our Profile</p>
+         </div>
+
+         <div class="col three-fourths">
+             <p class="intro">We got the opportunity to present our research to <b>Mr. Avinash Chander</b>, the then <b>Director General, DRDO</b> who was extremely inspired by our work and also gave us a project which we are currently working on.</p>
+
+             <p class="intro"><b>Savior UAV</b> was shortlisted for the <b>European Satellite Navigation Competition 2013.</b></p>
+
+<p class="intro">We secured the <b>First Position</b> in Lighter than Air Vehicle Challenge Student Design Competition organized by <b>American Society of Mechanical Engineers</b> held at BITS, Pilani.</p>
+
+<p class="intro">We have showcased our projects at the <b>Second Unmanned Systems Conference and Exhibition - 2014</b> held at New Delhi.</p>
+
+<p class="intro">We were the only student team at <b>India Aviation Expo 2013 and 2016</b>, Hyderabad and were greatly appreciated by the delegates.</p>
+
+<p class="intro"><b>National Aerospace Laboratories</b>, Bangalore has shown keen interest in two of our projects.</p>
+
+<p class="intro">Our research has been printed in <b>The New Indian Express, Deccan Chronicle, Shanghai Express, Career 360</b> etc.</p>
+
+<p class="intro">Our projects have been covered by <b>Vasanth TV</b>, a TV Channel.</p>
+
+<p class="intro">We had exhibited our UAVs at <b>Maker Fest 2015</b>, held in Ahmedabad in January 2015.</p>
+
+<p class="intro">Secured world rank 38 in <b>Students Unmanned Aerial Systems (SUAS)</b> Competition, held in Maryland, USA in June 2015.</p>
+
+<p class="intro">Showcased our UAVs to <b>Mr. Ratan Tata</b>, Chairman Emeritus of TATA Sons, who was highly impressed with our on-going projects.</p>
+
+
+
+
+
+<!--Achievements -->
+
+
+         </div>
+
+      </div>
+
+     
+
+      
+
+       <!-- Process Wrap End -->
+
+
+       <div class="row">
+    <div class="col full">
+      <h3>The Current Team</h3>
+    </div>
+  </div>
+  <div class="row team-wrap">
+
+
+
+  
+    <div class="col one-fourth"> <img src="images/team/1.jpg" width="300" height="300" class="new" alt="">
+      <div class"member-name"="">
+        <h5>Bharat Mathur</h5>
+        <span>Team Leader: Lead Contol Systems</span> </div>
+      <ul class="member-social">
+        <li><a href="https://www.facebook.com/bharat.mathur"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://in.linkedin.com/in/bharat-mathur-95a5a5aa"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+
+  
+    <div class="col one-fourth"> <img src="images/team/3.jpg" width="300" class="new" alt="">
+      <div class"member-name"="">
+        <h5>Abhishek Mohanty</h5>
+        <span>Asst. Team Leader</span> </div>
+      <ul class="member-social">
+        <li><a href="https://www.facebook.com/abhishek.mohanty.142"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://in.linkedin.com/in/abhishek-mohanty-681b3a111"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/4.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Arnab Halder</h5>
+        <span>Team Manager, Chief Test Pilot</span> </div>
+      <ul class="member-social">
+        <li><a href="https://www.facebook.com/arnab.halder.583"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://in.linkedin.com/in/arnab-halder-474a18125"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/5.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Deeptaman Das</h5>
+        <span>Lead Embedded Systems</span> </div>
+      <ul class="member-social">
+        <li><a href="https://www.facebook.com/deeptaman.das"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://in.linkedin.com/in/deeptaman-das-504310114"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/16.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Qasim Pardawala</h5>
+        <span>Embedded Systems Engineer</span> </div>
+      <ul class="member-social">
+        <li><a href="https://www.facebook.com/qasim.pardawala"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/22.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Anand Singhal</h5>
+        <span>Image Processing</span> </div>
+      <ul class="member-social">
+        <li><a href="www.twitter.com/fighterbay"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/23.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Anant Shukla</h5>
+        <span>Embedded Systems Engineer &amp; Web Developer</span> </div>
+      <ul class="member-social">
+      	<li><a href="https://www.facebook.com/theanantshukla"><i class="fa fa-facebook"></i></a></li>
+      	<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/26.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Paritosh Sapre</h5>
+        <span>Image Processing</span> </div>
+      <ul class="member-social">
+		<li><a href="https://www.facebook.com/paritoshsapre"><i class="fa fa-facebook"></i></a></li>
+		<li><a href="https://in.linkedin.com/in/paritosh-sapre-88073534"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+
+
+	<p>.</p>
+
+
+
+  
+    <div class="col one-fourth"> <img src="images/team/33.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Utkarsh Bajpai</h5>
+        <span>Control and Power Systems</span> </div>
+      <ul class="member-social">
+        <li><a href="https://in.linkedin.com/in/utkarsh-bajpai-79a8b252"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/44.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Vipul Notani</h5>
+        <span>Power Systems</span> </div>
+      <ul class="member-social">
+        <li><a href="https://in.linkedin.com/in/vipul-notani-0455a4129"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+
+
+
+
+        <div class="col one-fourth"> <img src="images/team/51.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Aravind S</h5>
+        <span>Design</span> </div>
+      <ul class="member-social">
+        <li><a href="https://www.facebook.com/achu565"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/32.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Koustav Paul</h5>
+        <span>Design</span> </div>
+      <ul class="member-social">
+        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>  
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/50.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Kunal Lad</h5>
+        <span>Design</span> </div>
+      <ul class="member-social">
+        <li><a href="https://www.facebook.com/kunal.lad.71"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>   
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/48.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Rishav</h5>
+        <span>Structures</span> </div>
+      <ul class="member-social">
+        <li><a href="https://www.facebook.com/rishav.choudhary.39"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+       
+      </ul>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/28.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Risshi Jain</h5>
+        <span>Design</span> </div>
+      <ul class="member-social">
+        <li><a href="https://www.facebook.com/risshi.jain"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://in.linkedin.com/in/risshi-jain-a13621117"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>  
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/43.jpg" class="new" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Vivek Sehgal</h5>
+        <span>Structures</span> </div>
+      <ul class="member-social">
+        <li><a href="https://www.facebook.com/vivek.sehgal.3958"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div> 
+
+  
+
+
+
+<!-- Hall of fame -->
+   
+
+
+    
+  </div>
+
+       <div class="row">
+    <div class="col full">
+      <h3>Hall of Fame</h3>
+      <span><b>Our Mentors</b></span>
+    </div>
+  </div>
+  <br><br>
+
+<div class="row team-wrap">
+ 
+
+
+  
+    <div class="col one-fourth"> <img src="images/team/34.jpg" class="old" width="300" alt="">
+      	<div class"member-name"="">
+        <h5>Sobin Santhosh</h5>
+        <ul class="member-social">
+        <li><a href="https://www.facebook.com/sobin.santhosh.aviator"><i class="fa fa-facebook"></i></a></li>
+      </ul>
+    	</div>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/35.jpg" class="old" width="300" alt="">
+    	<div class"member-name"="">
+        <h5>Shubham Vyas</h5>
+        <ul class="member-social">
+        <li><a href="https://www.facebook.com/kill2win"><i class="fa fa-facebook"></i></a></li>
+      	</ul>
+    	</div>
+	</div>
+
+
+
+
+    	<div class="col one-fourth"> <img src="images/team/52.jpg" class="old" width="300" alt="">
+     	 	<div class"member-name"="">
+        <h5>Jobin Jose</h5>
+        <ul class="member-social">
+        <li><a href="https://www.facebook.com/jobin.jose.9026"><i class="fa fa-facebook"></i></a></li>
+    	  </ul>
+    		</div>
+    	</div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/53.jpg" class="old" width="300" alt="">
+    	<div class"member-name"="">
+        <h5>Avinash K Vanadil</h5>
+        <ul class="member-social">
+        <li><a href="https://www.facebook.com/kvavi"><i class="fa fa-facebook"></i></a></li>
+      	</ul>
+    	</div>
+    </div>
+
+
+    <p>.</p>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/37.jpg" class="old" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Gaurang Vashistha</h5>
+        <ul class="member-social">
+        <li><a href="https://www.facebook.com/gaurang.vashistha"><i class="fa fa-facebook"></i></a></li>
+      	</ul>
+        </div>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/38.jpg" class="old" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Vishnu Sen</h5>
+        <ul class="member-social">
+        <li><a href="https://www.facebook.com/vishnu.sen.71"><i class="fa fa-facebook"></i></a></li>
+      	</ul>
+       </div>
+    </div>
+
+ 
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/39.jpg" class="old" width="300" alt="">
+    	<div class"member-name"="">
+        <h5>Vijaysai Kandimalla</h5>
+        <ul class="member-social">
+        <li><a href="https://www.facebook.com/vijaysai.k"><i class="fa fa-facebook"></i></a></li>
+      	</ul>
+    	</div>
+    </div>
+ 
+
+
+
+    <div class="col one-fourth"> <img src="images/team/40.jpg" class="old" width="300" alt="">
+    	<div class"member-name"="">
+        <h5>Abdullah Ccop</h5>
+        <ul class="member-social">
+        <li><a href="https://www.facebook.com/abdullah.ccop"><i class="fa fa-facebook"></i></a></li>
+      	</ul>
+        </div>
+    </div>
+
+    <p>.</p>
+
+
+
+ 
+
+    <div class="col one-fourth"> <img src="images/team/41.jpg" class="old" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Pradeep Chand</h5>
+        <ul class="member-social">
+        <li><a href="https://www.facebook.com/xTHE.AVIATORx"><i class="fa fa-facebook"></i></a></li>
+      	</ul>
+       </div>
+    </div>
+
+
+
+ 
+
+    <div class="col one-fourth"> <img src="images/team/42.jpg" class="old" width="300" alt="">
+      <div class"member-name"="">
+        <h5>Manogna Reddy</h5>
+        <ul class="member-social">
+        <li><a href="https://www.facebook.com/manognapreddy"><i class="fa fa-facebook"></i></a></li>
+      	</ul>
+       </div>
+    </div>
+
+
+
+
+    <div class="col one-fourth"> <img src="images/team/2.jpg" width="300" class="old" alt="">
+    	<div class"member-name"="">
+        <h5>Shreyas Vasudevan</h5>
+        <ul class="member-social">
+        <li><a href="https://www.facebook.com/shreyas.vasudevan"><i class="fa fa-facebook"></i></a></li>
+      	</ul>
+    </div>
+      
+    	</div>
+
+
+  </div>
+     
+
+
+   </section>
